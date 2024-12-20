@@ -50,6 +50,7 @@ Create a `.env` file in the root directory with the following keys:
 | `AWS_SECRET_ACCESS_KEY`| AWS secret access key                       |
 | `AWS_REGION`           | AWS region for S3 bucket                   |
 | `AWS_S3_BUCKET`        | Name of the S3 bucket                      |
+| `MONGODB_URI`        | MongoDB connection URL                 |
 
 ## API Endpoints
 ### 1. Register User

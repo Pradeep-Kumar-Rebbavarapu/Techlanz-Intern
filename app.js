@@ -24,7 +24,7 @@ const s3 = new AWS.S3({
 });
 
 
-mongoose.connect('mongodb://0.0.0.0:27017/file-upload-service', {
+mongoose.connect(process.env.MONGODB_URI, {
   useNewUrlParser: true,
   useUnifiedTopology: true
 });
