@@ -267,6 +267,6 @@ Common error responses include:
 - **500:** Internal server error.
 
 ## Deployment
-- **Primary URL:** [Deployed Service Without S3 bucket](https://primary-url.com)
-- **Backup URL:** [Deployed Service With S3 Bucket](https://backup-url.com)
+- **Primary URL:** [Deployed Service Without S3 bucket](https://techlanz-intern-production-f7a8.up.railway.app)
+- **Backup URL:** [Deployed Service With S3 Bucket](https://techlanz-intern-production.up.railway.app)
 
